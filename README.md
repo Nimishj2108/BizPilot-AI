@@ -17,6 +17,9 @@
 **BizPilot AI** is a secure autonomous business assistant built using a **multi-agent architecture**.
 
 It enables startups and small businesses to transform raw data into actionable business intelligence.
+<img width="1892" height="901" alt="image" src="https://github.com/user-attachments/assets/66c27be8-8cfb-4de0-b731-2f3890653eac" />
+<img width="1840" height="815" alt="image" src="https://github.com/user-attachments/assets/a8951bdd-408f-43b9-a093-005745bfca09" />
+<img width="1811" height="837" alt="image" src="https://github.com/user-attachments/assets/01b9713d-7143-4ba7-be14-7bb5860e3d51" />
 
 ### Core Capabilities
 
