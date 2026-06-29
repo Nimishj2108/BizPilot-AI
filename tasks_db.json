@@ -1,0 +1,72 @@
+[
+  {
+    "id": "db7f352d",
+    "title": "Improve payment system: Address transaction failures and checkout dropouts causing revenue loss.",
+    "priority": "High",
+    "assignee": "Engineering",
+    "status": "Todo"
+  },
+  {
+    "id": "2a7abd7e",
+    "title": "Contact affected customer cohort: Proactively reach out to customers who suffered checkout failures to offer discount codes and re-engage them.",
+    "priority": "High",
+    "assignee": "Support",
+    "status": "Todo"
+  },
+  {
+    "id": "f2683172",
+    "title": "Optimize database and server response times: Address customer complaints regarding application slowness or lag.",
+    "priority": "Medium",
+    "assignee": "Engineering",
+    "status": "Todo"
+  },
+  {
+    "id": "4497c7b2",
+    "title": "Mitigate operational risk: Failed transaction anomaly spotted: Failed transaction anomaly spotted: Order TX1003 failed.",
+    "priority": "Medium",
+    "assignee": "Operations",
+    "status": "Todo"
+  },
+  {
+    "id": "87346014",
+    "title": "Implement product cross-selling / bundle discounts: Capitalize on healthy average order sizes to boost revenue.",
+    "priority": "Medium",
+    "assignee": "Product",
+    "status": "Todo"
+  },
+  {
+    "id": "3e653138",
+    "title": "Improve payment system: Address transaction failures and checkout dropouts causing revenue loss.",
+    "priority": "High",
+    "assignee": "Engineering",
+    "status": "Todo"
+  },
+  {
+    "id": "49a6cc65",
+    "title": "Contact affected customer cohort: Proactively reach out to customers who suffered checkout failures to offer discount codes and re-engage them.",
+    "priority": "High",
+    "assignee": "Support",
+    "status": "Todo"
+  },
+  {
+    "id": "c00c6e33",
+    "title": "Optimize database and server response times: Address customer complaints regarding application slowness or lag.",
+    "priority": "Medium",
+    "assignee": "Engineering",
+    "status": "Todo"
+  },
+  {
+    "id": "648bffef",
+    "title": "Mitigate operational risk: Failed transaction anomaly spotted: Failed transaction anomaly spotted: Order TX1003 failed.",
+    "priority": "Medium",
+    "assignee": "Operations",
+    "status": "Todo"
+  },
+  {
+    "id": "c34620ac",
+    "title": "Implement product cross-selling / bundle discounts: Capitalize on healthy average order sizes to boost revenue.",
+    "priority": "Medium",
+    "assignee": "Product",
+    "status": "Todo"
+  }
+]
